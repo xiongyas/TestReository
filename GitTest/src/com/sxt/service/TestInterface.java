@@ -1,5 +1,7 @@
 package com.sxt.service;
 
-public class TestInterface {
+public interface TestInterface {
+	void m();
+	void m2();
 
 }
